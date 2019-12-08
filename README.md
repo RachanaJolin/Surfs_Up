@@ -5,7 +5,7 @@ I added a line plot to make the data a little more easy on the eyes
 
 
 
-	Dec Precipitation     
+Dec  Precipitation
 count	31.000000
 mean	0.056452
 std	0.117744
